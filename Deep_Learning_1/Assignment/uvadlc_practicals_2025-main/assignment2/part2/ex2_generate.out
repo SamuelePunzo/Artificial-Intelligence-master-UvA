@@ -1,0 +1,38 @@
+============================================================================================== 
+Warning! Mixing Conda and module environments may lead to corruption of the
+user environment. 
+We do not recommend users mixing those two environments unless absolutely
+necessary. Note that 
+SURF does not provide any support for Conda environment.
+For more information, please refer to our software policy page:
+https://servicedesk.surf.nl/wiki/display/WIKI/Software+policy+Snellius#SoftwarepolicySnellius-UseofAnacondaandMinicondaenvironmentsonSnellius 
+
+Remember that many packages have already been installed on the system and can
+be loaded using 
+the 'module load <package__name>' command. If you are uncertain if a package is
+already available 
+on the system, please use 'module avail' or 'module spider' to search for it.
+============================================================================================== 
+[rank: 0] Seed set to 0
+/gpfs/home3/scur1800/dl1/uvadlc_practicals_2025/assignment2/part2/generate.py:104: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  state_dict = torch.load(model_weights_path)
+True False
+number of parameters: 10.73M
+data has 540241 characters, 87 unique.
+running on device cpu
+--------------------------------------------------------------------------------
+Yesterday I went to the fire and warm yourself.’ And away they
+were still alive or not, if he said to the huntsman: ‘As you 
+--------------------------------------------------------------------------------
+Yesterday I went to the castle to a
+house wherein lived a witch. ‘Do go into the garden and see where she saw
+there,’ and he
+--------------------------------------------------------------------------------
+Yesterday I went to the castle. In the an
+opposite a fee gold chain, and if it is a such stand below the calf was over, the 
+--------------------------------------------------------------------------------
+Yesterday I went to the fire and went home they are both tired
+you along time, and still continued to a shame way out of it;
+--------------------------------------------------------------------------------
+Yesterday I went to the castle in his hand, and said: ‘What does
+thy little dirty war.’ ‘Rose-red answered, ‘Your brothers h
